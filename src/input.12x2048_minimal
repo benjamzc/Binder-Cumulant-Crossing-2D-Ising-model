@@ -1,0 +1,15 @@
+12                      //L
+2048                     //Lz
+10                      //NUMBITSPREBUSQUEDAS
+/ada/ptmp/pks/munbe/Documents/MCQSG/output/minimal/12x2048/ //Path to output data
+100                  //Number of configurations
+50                  //Measures between configs
+84               //Monte Carlo steps
+30                      //Metropolis steps
+0                       //flagJ: generate
+1                       //flag: new run
+24                     //Number of k values
+0                       //Seed J (auto)
+0                       //Seed config (auto)
+0                       //Seed MC (auto)
+4                       //Number of GPUs
